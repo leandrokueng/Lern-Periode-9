@@ -11,6 +11,13 @@
 
 ## 21.02.2025
 
-- [ ] Heute möchte ich alle Moodle-Test im Modul 114 fertig machen.
-- [ ] Heute möchte ich mit dem HZ 2 im Modul 114 anfangen.
-- [ ] Heute möchte ich an meiner Fortnite Website weitermachen. 
+- [X] Heute möchte ich alle Moodle-Test im Modul 114 fertig machen.
+- [X] Heute möchte ich mit dem HZ 2 im Modul 114 anfangen.
+- [X] Heute möchte ich an meiner Fortnite Website weitermachen. 
+
+
+## 27.02.2025
+
+- [ ] Heute möchte ich den Auftrag 1611 im Modul 259 wiederholen.
+- [ ] Heute möchte ich den Auftrag 1605 im Modul 259 wiederholen.
+- [ ] Heute möchte ich an meiner Website weiterarbeiten
