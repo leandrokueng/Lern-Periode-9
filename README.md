@@ -22,3 +22,9 @@
 - [X] Heute möchte ich den Auftrag 1605 im Modul 259 wiederholen.
 - [X] Heute möchte ich am HZ 2 im Modul 114 arbeiten.
 
+## 07.03.2025
+
+- [ ] Heute möchte ich die Moodle Tests vom HZ 2 im Modul 114 machen
+- [ ] Heute möchte ich den Auftrag 1726 im Modul 114 machen
+- [ ] Heute möchte ich mit den Moodle tests vom HZ3 im Modul 114 beginnen
+
