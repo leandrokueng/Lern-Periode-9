@@ -24,7 +24,16 @@
 
 ## 07.03.2025
 
-- [ ] Heute möchte ich die Moodle Tests vom HZ 2 im Modul 114 machen
-- [ ] Heute möchte ich den Auftrag 1726 im Modul 114 machen
-- [ ] Heute möchte ich mit den Moodle tests vom HZ3 im Modul 114 beginnen
+- [X] Heute möchte ich die Moodle Tests vom HZ 2 im Modul 114 machen
+- [X] Heute möchte ich den Auftrag 1726 im Modul 114 machen
+- [X] Heute möchte ich mit den Moodle tests vom HZ3 im Modul 114 beginnen
+
+Heute habe ich Präsenzlernen gearbeitet und ich konnte meine Ziele erreichen.
+
+## 14.03.2025
+
+- [ ] Heute möchte ich mit dem HZ 4 im Modul 114 anfangen.
+- [ ] Heute möchte ich am Modul 259 arbeiten.
+- [ ] Heute möchte ich an meiner Website von letzter Lern-Periode arbeiten.
+
 
