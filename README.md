@@ -32,8 +32,14 @@ Heute habe ich Präsenzlernen gearbeitet und ich konnte meine Ziele erreichen.
 
 ## 14.03.2025
 
-- [ ] Heute möchte ich mit dem HZ 4 im Modul 114 anfangen.
-- [ ] Heute möchte ich am Modul 259 arbeiten.
-- [ ] Heute möchte ich an meiner Website von letzter Lern-Periode arbeiten.
+- [X] Heute möchte ich mit dem HZ 4 im Modul 114 anfangen.
+- [X] Heute möchte ich am Modul 259 arbeiten.
+- [X] Heute möchte ich an meiner Website von letzter Lern-Periode arbeiten.
+
+## 21.03.2025 
+
+- [ ] Heute möchte ich das HZ4 im Modul 114 abschliessen
+- [ ] Heute möchte ich am Scrum Auftrag arbeiten
+- [ ] Heut möchte ich an meiner Website weiterarbeiten.
 
 
