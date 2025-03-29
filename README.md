@@ -44,8 +44,13 @@ Heute habe ich Präsenzlernen gearbeitet und ich konnte meine Ziele erreichen.
 
 ## 28.03.2025
 
-- [ ] Heute möchte ich im Modul 259 weiterarbeiten
-- [ ] Heute möchte ich am Aufrtag SOLID arbeiten
+- [X] Heute möchte ich im Modul 259 weiterarbeiten
+- [X] Heute möchte ich am Aufrtag SOLID arbeiten
+- [X] Heute möchte ich an meiner Website arbeiten
+
+## 04.04.2025
 - [ ] Heute möchte ich an meiner Website arbeiten
+- [ ] Heute möchte ich den Teilauftrag 3 in der LB 259 vorbereiten
+- [ ] Heute möchte ich den Teilauftrag 3 in der LB 259 machen
 
 
