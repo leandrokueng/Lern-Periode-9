@@ -49,8 +49,9 @@ Heute habe ich Präsenzlernen gearbeitet und ich konnte meine Ziele erreichen.
 - [X] Heute möchte ich an meiner Website arbeiten
 
 ## 04.04.2025
-- [ ] Heute möchte ich an meiner Website arbeiten
-- [ ] Heute möchte ich den Teilauftrag 3 in der LB 259 vorbereiten
-- [ ] Heute möchte ich den Teilauftrag 3 in der LB 259 machen
+- [X] Heute möchte ich an meiner Website arbeiten
+- [X] Heute möchte ich den Teilauftrag 3 in der LB 259 vorbereiten
+- [X] Heute möchte ich den Teilauftrag 3 in der LB 259 machen
+
 
 
